@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! Ich liebe dich soooo sehr mein Pupsibaby! 🎉💝💖💝💓",
-        message: "Auch wenn wir gerade nicht bei einander sein koennen freue ich mich soooooo sehr dass duuu jaaaaa gesagt hast Baby. Ich liebe dich soooo sehr Viola!",
+        message: "Auch wenn wir gerade nicht bei einander sein können freue ich mich soooooo sehr dass duuu jaaaaa gesagt hast Baby. Ich liebe dich soooo sehr Viola!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
