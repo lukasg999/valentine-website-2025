@@ -23,9 +23,9 @@ const CONFIG = {
     questions: {
         first: {
             text: "Liebst du mich Baby ?",                                    // First interaction
-            yesBtn: "JAAAAAAAAAAAAAA",                                             // Text for "Yes" button
-            noBtn: "no",                                               // Text for "No" button
-            secretAnswer: "I don't like you, Ich liebe dich mein Baby Viola! ❤️"           // Secret hover message
+            yesBtn: "jaaaaaaa",                                             // Text for "Yes" button
+            noBtn: "nooooooo",                                               // Text for "No" button
+            secretAnswer: "Ich liebe dich wirklich! ❤️"           // Secret hover message
         },
         second: {
             text: "Wie sehr liebst du mich ?",                          // For the love meter
